@@ -9,3 +9,5 @@ Deze repository hoort bij de training [Python Fundamentals voor Data Engineers e
 Het is handig om deze training uit te voeren in Google Colab. Op die manier hoeft er geen lokale Python-installatie uitgevoerd te worden op laptops of VM's, en kunnen deelnemers eenvoudig maar effectief kennismaken met Jupyter.
 
 Binnen Colab ([https://colab.research.google.com/](https://colab.research.google.com/)) is het aan te raden om de instelling "Automatically trigger code completions" uit te zetten. Zolang deze functie aan staat, werkt de functie <kbd>Shift</kbd>+<kbd>Tab</kbd> niet. 
+
+![Instelling over automatically trigger code completion](img/disable-trigger-code-completions.png)
